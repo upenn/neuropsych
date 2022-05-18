@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Neurodevelopment and Psychosis Section 
 
 You can use the [editor on GitHub](https://github.com/upenn/neuropsych/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
