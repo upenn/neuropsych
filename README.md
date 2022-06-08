@@ -5,7 +5,7 @@
 
 The BIT onboarding process is where new personnel are familiarized with the BIT team, given an overview of lab/Penn systems, and granted access to these systems.
 
-If you have PennKey access you can follow the instructions for accessing the internal BIT wiki to view [the BIT Onboarding process|https://github.com/upenn/BIT/wiki/BIT-Onboarding].
+If you have PennKey access you can follow the instructions for accessing the internal BIT wiki to view [[the BIT Onboarding process|https://github.com/upenn/BIT/wiki/BIT-Onboarding]].
 
 If you do not yet have access your supervisor can address the process with you.
 
