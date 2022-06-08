@@ -1,37 +1,22 @@
-## Welcome to Neurodevelopment and Psychosis Section 
+# Welcome to Neurodevelopment and Psychosis Section 
 
-You can use the [editor on GitHub](https://github.com/upenn/neuropsych/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## BIT Onboarding
 
-### Markdown
+The BIT onboarding process is where new personnel are familiarized with the BIT team, given an overview of lab/Penn systems, and granted access to these systems.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you have PennKey access you can follow the instructions for accessing the internal BIT wiki to view [the BIT Onboarding process|https://github.com/upenn/BIT/wiki/BIT-Onboarding].
 
-```markdown
-Syntax highlighted code block
+If you do not yet have access your supervisor can address the process with you.
 
-# Header 1
-## Header 2
-### Header 3
+## Internal BIT Wiki
 
-- Bulleted
-- List
+Our internal wiki is located here: https://github.com/upenn/BIT/wiki
 
-1. Numbered
-2. List
+To access our internal wiki you will need a GitHub account and active PennKey.
 
-**Bold** and _Italic_ and `Code` text
+### Access to the BIT Wiki
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/upenn/neuropsych/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. If you do not have a GitHub account create one here: https://github.com/signup
+2. Follow the instructions to join the University of Pennsylvania GitHub Campus Program: https://github.seas.upenn.edu
+3. You should then be able to access the internal wiki: https://github.com/upenn/BIT/wiki
