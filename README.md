@@ -17,6 +17,6 @@ To access our internal wiki you will need a GitHub account and active PennKey.
 
 ### Access to the BIT Wiki
 
-1. If you do not have a GitHub account create one here: https://github.com/signup
-2. Follow the instructions to join the University of Pennsylvania GitHub Campus Program: https://github.seas.upenn.edu
+1. Create your GitHub account (if you do not already have one): https://github.com/signup
+2. Follow these instructions to join the University of Pennsylvania GitHub Campus Program: https://github.seas.upenn.edu
 3. You should then be able to access the internal wiki: https://github.com/upenn/BIT/wiki
