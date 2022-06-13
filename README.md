@@ -18,10 +18,10 @@ To access our internal wiki you will need a GitHub account and active PennKey.
 ### Access to the BIT Wiki
 
 1. If you do not have an existing GitHub account create one here:
-    * https://github.com/signup
+    * [Create a GitHub account](https://github.com/signup)
 2. If two-factor authentication is not enabled on your account enable it here:
-    * https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication
+    * [Configure two-factor authentication for GitHub](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication)
 3. After logging into your GitHub account visit this URL to authenticate with your PennKey and become a member of the upenn GitHub organization:
-    * https://github.com/orgs/upenn/sso/sign_up
+    * [Join the University of Pennsylvania GitHub organization](https://github.com/orgs/upenn/sso/sign_up)
 4. You should then be able to access the internal wiki:
     * https://github.com/upenn/BIT/wiki
