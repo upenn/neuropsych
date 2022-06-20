@@ -3,9 +3,10 @@ title: Penn Neurocognitive Battery (CNB)
 layout: template
 filename: penncnb.md
 --- 
-https://upenn.github.io/neuropsych/assets/images/CNB_background.png
 
-![test] (/assets/images/CNB_background.png)
+![Background image](/assets/images/CNB_background.png)
+
+
 
 
 # Penn Neurocognitive Battery (CNB)
