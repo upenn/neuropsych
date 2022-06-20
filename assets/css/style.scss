@@ -1,6 +1,16 @@
 ---
 ---
 @import "jekyll-theme-slate";
-html {
-    background-color: #48148c;
+
+body {
+    font: unset;
+    color: #000000;
 }
+
+header {   
+    background: #000000; 
+    h1 {
+        color: #48148c;
+    }
+}
+
