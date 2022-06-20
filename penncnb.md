@@ -4,7 +4,7 @@ layout: template
 filename: penncnb.md
 --- 
 
-![Background image](/assets/images/CNB_background.png)
+<!--- ![Background image](/assets/images/CNB_background.png) --->
 
 
 
