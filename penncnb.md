@@ -3,7 +3,7 @@ title: Penn Neurocognitive Battery (CNB)
 layout: template
 filename: penncnb.md
 --- 
-![Penn Logo] (../master/penn-logo.png)
+![Penn Logo] (CNB_backgrouund.png)
 
 # Penn Neurocognitive Battery (CNB)
 
