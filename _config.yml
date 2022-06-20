@@ -1,4 +1,2 @@
 theme: jekyll-theme-slate
 
-url: 'https://upenn.github.io' # your main domain
-baseurl: '/neuropsych' # if you're using custom domain keep this blank example: baseurl: ''
