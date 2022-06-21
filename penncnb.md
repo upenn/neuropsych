@@ -33,10 +33,9 @@ The CNB is a computerized neurocognitive test battery developed by Dr. Ruben C. 
 
 ### Complex Cognition Domain
 
-1. Penn Verbal Reasoning Test (PVRT): Penn Verbal Reasoning Test consists of 8 verbal analogy problems from the Educational Testing Service (ETS) factor-referenced test kit. The number of correct responses is entered as the accuracy score. Language and Analogical Reasoning The Children’s version of the Penn Verbal Reasoning Test consists of verbal analogy problems with simplified instructions and vocabulary (Gur et al., 1982, 2001, 2010).
-2. Penn Line Orientation Test  (PLOT):The Penn Line Orientation Test (PLOT) measures the complex reasoning domain of spatial ability. The participant is      shown two lines on the computer screen that differ in length and orientation, and must press a button to rotate one of the lines until its orientation (angle    relative to a horizontal line) is the same as the other (non-rotating) line.
-3. 
-
+1. Penn Verbal Reasoning Test (PVRT): Penn Verbal Reasoning Test consists of 8 verbal analogy problems from the Educational Testing Service (ETS) factor-            referenced test kit. The number of correct responses is entered as the accuracy score. Language and Analogical Reasoning The Children’s version of the Penn      Verbal Reasoning Test consists of verbal analogy problems with simplified instructions and vocabulary (Gur et al., 1982, 2001, 2010).
+2. Penn Line Orientation Test  (PLOT):The Penn Line Orientation Test (PLOT) measures the complex reasoning domain of spatial ability. The participant is            shown two lines on the computer screen that differ in length and orientation, and must press a button to rotate one of the lines until its orientation (angle    relative to a horizontal line) is the same as the other (non-rotating) line.
+3. Penn Matrix Reasoning Test (PMAT): A measure of abstraction and mental flexibility. It is a multiple choice task in which the participant must                    conceptualize spatial, design and numerical relations that range in difficulty from very easy to increasingly complex
 
 
 ### Social Cognition Domain
