@@ -26,8 +26,11 @@ The CNB is a computerized neurocognitive test battery developed by Dr. Ruben C. 
 ### Episodic Memory Domain
 
 1. Penn Word Memory Test (PWMT)
+   The Penn Word Memory Test (PWMT; Gur et al., 1997) presents 20 target words that are then mixed with 20 distractors equated for frequency, length,                concreteness and low imageability. The participant’s score reflects the number of correctly recognized targets and correctly rejected foils. Median response      times for correct responses serves as a measure of speed. A 20 min delayed recall procedure is also administered.
 2. Penn Face Memory Test (PFMT)
+   The Penn Face Memory Test (PFMT; Gur et al., 1997) presents 20 digitized faces that are then mixed with 20 distractors equated for age, gender and ethnicity.    The participant’s score reflects the number of correctly recognized targets and correctly rejected foils, and median response times for correct responses        serves as a measure of speed. The procedure is repeated at 20 min delay. 
 3. Visual Object Learning Test (VOLT)
+   The Visual Object Learning Test (VOLT; Glahn et al., 1997) uses Euclidean shapes as stimuli with the same paradigm as the word and face. The participant’s        score reflects the number of correctly recognized targets and correctly rejected foils, and again median response times for correct responses serves as a        measure of speed. The procedure is repeated at 20 min delay. 
 
 ### Sensorimotor Processing Speed 
 
