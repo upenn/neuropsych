@@ -31,7 +31,22 @@ The CNB is a computerized neurocognitive test battery developed by Dr. Ruben C. 
 3. Visual Object Learning Test (VOLT):
    The Visual Object Learning Test (VOLT; Glahn et al., 1997) uses Euclidean shapes as stimuli with the same paradigm as the word and face. The participant’s        score reflects the number of correctly recognized targets and correctly rejected foils, and again median response times for correct responses serves as a        measure of speed. The procedure is repeated at 20 min delay. 
 
-### Sensorimotor Processing Speed 
+### Complex Cognition Domain
+
+1. Penn Line Orientation Test  (PLOT):The Penn Line Orientation Test (PLOT) measures the complex reasoning domain of spatial ability. The participant is      shown two lines on the computer screen that differ in length and orientation, and must press a button to rotate one of the lines until its orientation (angle    relative to a horizontal line) is the same as the other (non-rotating) line.
+2. 
+
+
+
+### Social Cognition Domain
+
+1. Penn Emotion Identification Test (PEID): This test measures the ability to decode and correctly identify facial expressions of emotion. Participants are shown    40 faces (one at a time), and must determine whether the emotion expressed by the actor’s face is happiness, sadness, anger, fear, or none at all. There are 4    female 4 male faces for each emotion (4 × 2 × 5 = 40).
+2. Penn Emotion Differentiation Test (PEMD): This test measures the social cognition domain of emotion intensity differentiation - the ability to decode the        intensity of facial expressions of emotion. Participants are shown two faces at a time, both expressing the same emotion, and must determine which of the        two faces expresses the emotion more intensely. Differential intensity was obtained by morphing a neutral face to one of four emotions (happy, sad, anger,        fear).
+3. The Penn Age Differentiation Test (PAGD):  This test measures the social cognition domain of the ability to decode the age of a face. Participants are shown      two faces at a time, both neutral, and must determine which of the two faces is older. The stimuli were constructed from young faces morphed into old faces,      providing graded levels of difficulty.
+
+
+### Sensorimotor Speed 
 
 1. Motor Praxis Test (MPRACT):
    The Mouse Practice task (MP; Gur et al., 2001a) requires moving the mouse and clicking as quickly as possible on a green square that disappears after the        click. The square gets increasingly small. Since it is rare for participants to miss a target, no accuracy score is calculated and the median response time is    used as the main dependent measure. 
+2. The Computerized Finger Tapping Test (CTAP): This test measures how quickly the participant can press the spacebar using only the index finger. After a          practice trial with each hand, the test presents five trials for the dominant hand alternating with five trials for the non-dominant hand.
