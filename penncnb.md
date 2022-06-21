@@ -12,11 +12,6 @@ The CNB is a computerized neurocognitive test battery developed by Dr. Ruben C. 
 
 ## Tests Adminsistered in the CNB by Domain
 
-### Sensorimotor Processing Speed 
-
-1. Motor Praxis Test (MPRACT)
-   The Mouse Practice task (MP; Gur et al., 2001a) requires moving the mouse and clicking as quickly as possible on a green square that disappears after the        click. The square gets increasingly small. Since it is rare for participants to miss a target, no accuracy score is calculated and the median response time is    used as the main dependent measure. 
-
 ### Executive-Control Domain
 
 1. Abstraction, Inhibition and Working Memory Test (AIM)
@@ -28,3 +23,13 @@ The CNB is a computerized neurocognitive test battery developed by Dr. Ruben C. 
 6. Go-No-Go Test (GNG)
 
 
+### Episodic Memory Domain
+
+1. Penn Word Memory Test (PWMT)
+2. Penn Face Memory Test (PFMT)
+3. Visual Object Learning Test (VOLT)
+
+### Sensorimotor Processing Speed 
+
+1. Motor Praxis Test (MPRACT)
+   The Mouse Practice task (MP; Gur et al., 2001a) requires moving the mouse and clicking as quickly as possible on a green square that disappears after the        click. The square gets increasingly small. Since it is rare for participants to miss a target, no accuracy score is calculated and the median response time is    used as the main dependent measure. 
