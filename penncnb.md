@@ -12,8 +12,10 @@ The CNB is a computerized neurocognitive test battery developed by Dr. Ruben C. 
 
 ## Tests Adminsistered in the CNB by Domain
 
+### Sensorimotor Processing Speed 
+
 1. Motor Praxis Test (MPRACT)
-   The mpraxis is a measure of sensorimotor ability. This test requires moving the mouse and clicking on a green square that disappears after the click. The        square gets smaller and appears in unpredictable locations (Gur et al., 2001, 2010)
+   The Mouse Practice task (MP; Gur et al., 2001a) requires moving the mouse and clicking as quickly as possible on a green square that disappears after the        click. The square gets increasingly small. Since it is rare for participants to miss a target, no accuracy score is calculated and the median response time is    used as the main dependent measure. 
 
 ### Executive-Control Domain
 
