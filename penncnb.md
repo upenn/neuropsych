@@ -20,6 +20,7 @@ The CNB is a computerized neurocognitive test battery developed by Dr. Ruben C. 
 1. Abstraction, Inhibition and Working Memory Test (AIM)
 2. Penn Conditional Exclusion Test (PCET)
 3. Penn Continuous Performance Test (PCPT)
+   The Penn Continuous Performance Test (PCPT; Kurtz et al., 2001) uses a standard CPT paradigm. The participant responds to a set of 7-segment displays            presented 1/sec., whenever they form a digit (NUMBERS, initial 3 min) or letter (LETTERS, next 3 min). The number of true positive responses is recorded as      the accuracy score and the median response time for true positive responses is the measure of attention speed.
 4. Letter/Fractal N-back (LNB/FNB)
 5. Digit Symbol Substitution Test (DSST)
 6. Go-No-Go Test (GNG)
