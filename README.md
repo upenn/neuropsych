@@ -21,6 +21,7 @@ To access our internal wiki you will need a GitHub account and active PennKey.
     * [Create a GitHub account](https://github.com/signup)
 2. If two-factor authentication is not enabled on your account enable it:
     * [Configure two-factor authentication for GitHub](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication)
+    * [Additional instructions for configuring with Duo Mobile](https://github.com/upenn/neuropsych/wiki/Configuring-GitHub-2FA-with-Duo-Mobile)
 3. After logging into your GitHub account visit this link to authenticate with your PennKey and join the upenn GitHub organization:
     * [Join the University of Pennsylvania GitHub organization](https://github.com/orgs/upenn/sso/sign_up)
 4. You should then be able to access the internal wiki:
